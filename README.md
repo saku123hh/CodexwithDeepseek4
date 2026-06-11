@@ -1,3 +1,4 @@
+<img width="1311" height="255" alt="Pasted image 20260611204819" src="https://github.com/user-attachments/assets/553176cd-102f-438d-8172-bc31545c82ff" />
 # CodexwithDeepseek4
 Integrate DeepSeek AI into OpenAI Codex using Moonbridge as a compatibility layer
 **# 重新理清moonbridge和codex直接连接
@@ -108,8 +109,9 @@ models_catalog.json的路径被保存为"$CODEX_HOME\models_catalog.json"
 ```
 model_catalog_json = "C:\\Users\\Administrator\\.codex\\models_catalog.json"
 ```
-![[attachments/Pasted image 20260611204819.png]]
-![[attachments/Pasted image 20260611204546.png]]
+<img width="1292" height="555" alt="Pasted image 20260611204546" src="https://github.com/user-attachments/assets/d1ff1897-e69f-4f1a-9c52-3605ab8085d3" />
+<img width="1311" height="255" alt="Pasted image 20260611204819" src="https://github.com/user-attachments/assets/b06f9e92-97ad-4b1e-a6b2-b476526dc469" />
+
 
 然后启动codex就可以了
 ```
