@@ -114,6 +114,6 @@ model_catalog_json = "C:\\Users\\Administrator\\.codex\\models_catalog.json"
 
 
 然后启动codex就可以了
-```
+
 codex cd myProject
 ```**
