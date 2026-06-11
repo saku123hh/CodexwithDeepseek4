@@ -1,5 +1,5 @@
 
-# CodexwithDeepseek4
+# CodexwithDeepseek4(Windows）
 Integrate DeepSeek AI into OpenAI Codex using Moonbridge as a compatibility layer
 **# 重新理清moonbridge和codex直接连接
 
